@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyPlayerApplication</string>
+
+    <string-array name="music_array">
+        <item>Кишлак - Я у ываю в джаз.mp3</item>
+        <item>Jamik - Письмо маме.mp3</item>
+    </string-array>
+
+</resources>
